@@ -3,7 +3,7 @@
 Esse é um programa feito em Java e utiliza o Java Swing para criar a interface. 
 O programa calcula se o triângulo é isóceles, equilátero ou escaleno.
 
-Caso você queira baixar somente o programa bastar ir na pasta *dist*
+caso você queira baixar somente o programa basta ir ná pasta dist
 
 ## imagem 
 
